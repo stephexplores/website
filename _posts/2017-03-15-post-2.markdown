@@ -14,4 +14,4 @@ published: true
 
 ###### This is an H6
 
-this is normal text
+Markdown Syntax cheatsheet [click here](https://help.ghost.org/hc/en-us/articles/224410728-Markdown-Guide)

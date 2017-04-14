@@ -1,128 +1,97 @@
 ---
 layout: landing
 ---
-				<!-- Banner -->
-					<section id="banner">
-						<div class="inner">
-							<h2>{{ site.title }}</h2>
-							<p>{{ site.description | markdownify }}</p>
-							<ul class="actions">
-								<li><a href="/travel/post-2" class="button">Latest Post</a></li>
-							</ul>
-						</div>
-						<a href="#one" class="more scrolly">Learn More</a>
-					</section>
+<!-- Banner -->
+	<section id="banner">
+		<div class="inner">
+			<h2>{{ site.title }}</h2>
+			<p>{{ site.description | markdownify }}</p>
+			<ul class="actions">
+				{% for post in site.posts %}
+					{% if post.category == "travel" and post.featured %}
+						<li><a href="{{ post.permalink }}" class="button">Latest Article</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+		<a href="#one" class="more scrolly">Learn More</a>
+	</section>
 
-				<!-- One -->
-					<section id="one" class="wrapper style1 special">
-						<div class="inner">
-							<header class="major">
-								<h2>Hey! I'm Steph<br />
-								<p> This is where I share my love of the outdoors, adventure planning and my favourite gear.</p>
-							</inner>
-							<ul class="icons major">
-								<li><span class="icon fa-tree major style1"><span class="label">Lorem</span></span></li>
-								<li><span class="icon fa-heart-o major style2"><span class="label">Ipsum</span></span></li>
-								<li><span class="icon fa-angellist major style3"><span class="label">Dolor</span></span></li>
-							</ul>
-						</div>
-					</section>
+<!-- One -->
+	<section id="one" class="wrapper style1 special">
+		<div class="inner">
+			<header class="major">
+				<h2>Hey! I'm Steph<br />
+				<p> This is where I share my love of the outdoors, adventure planning and my favourite gear.</p>
+			</inner>
+			<ul class="icons major">
+				<li><span class="icon fa-tree major style1"><span class="label">Lorem</span></span></li>
+				<li><span class="icon fa-heart-o major style2"><span class="label">Ipsum</span></span></li>
+				<li><span class="icon fa-angellist major style3"><span class="label">Dolor</span></span></li>
+			</ul>
+		</div>
+	</section>
 
-				<!-- Two -->
-					<section id="travel" class="wrapper alt style2">
+<!-- Travel -->
+	<section id="travel" class="wrapper alt style2">
+		{% for post in site.posts %}
+			{% if post.category == "travel" %}
+				<section class="spotlight">
+					<div class="image"><img src="{{ post.thumb }}" alt="{{ post.title }}" /></div>
+					<div class="content">
+						<h2>{{ post.title }}</h2>
+						<p>{{ post.blurb }}</p>
+						<a class="button" title="Read the article - {{ post.title }}" href="{{ post.permalink }}">Read the article</a>
+					</div>
+				</section>
+			{% endif %}
+		{% endfor %}
+	</section>
 
-							{% for post in site.posts %}
-								{% if post.category == "travel" %}
-									<section class="spotlight">
-										<div class="image"><img src="{{ post.thumb }}" alt="{{ post.title }}" /></div>
-										<div class="content">
-											<h2>{{ post.title }}</h2>
-											<p>{{ post.blurb }}</p>
-											<a class="button" title="Read the article - {{ post.title }}" href="{{ post.permalink }}">Read the article</a>
-										</div>
-									</section>
-								{% endif %}
-							{% endfor %}
+<!-- Gear -->
+	<section id="gear" class="wrapper style3 special">
+		<div class="inner">
+			<header class="major">
+				<h2>My Favourite Gear</h2>
+				<p>Camping, canoeing, climbing and everyday gear reviews.</p>
+			</header>
+			<ul class="features">
+				{% for post in site.posts %}
+					{% if post.category == "gear" %}
+						<li class="icon fa-compass">
+							<a href="{{ post.permalink }}">
+								<h3>{{ post.title }}</h3>
+								<p>{{ post.blurb }}</p>
+							</a>
+						</li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+	</section>
 
-							{% comment %}
-						<section class="spotlight">
-							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
-								<h2>Rushing River in the Winter<br /></h2>
-								<p>Groomed ski trails, snowshoeing and open water. Is there anything better?</p>
-							</div>
-						</section>
+<!-- CTA -->
+	<section id="cta" class="wrapper style4">
+		<div class="inner">
+			<header>
+				<h2>Stay Connected!</h2>
+				<p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+			</header>
+			<ul class="actions vertical">
+				<li><a href="#sign-up-form" class="button fit special sign-up">Sign Up</a></li>
+				<!-- <li><a href="#" class="button fit">Learn More</a></li> -->
+			</ul>
+		</div>
+	</section>
 
-						<section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
-								<h2>Canoeing Little Limestone Lake<br /></h2>
-								<p>The most magnificent colour changing lake in the world.</p>
-							</div>
-						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
-								<h2>West Hawk Lake<br />	</h2>
-								<p>A weekend of firsts: ice roads, ice fishing and winter camping.</p>
-							</div>
-						</section>
-						{% endcomment %}
-					</section>
 
-				<!-- Three -->
-					<section id="gear" class="wrapper style3 special">
-						<div class="inner">
-							<header class="major">
-								<h2>My Favourite Gear</h2>
-								<p>Camping, canoeing, climbing and everyday gear reviews.</p>
-							</header>
-							<ul class="features">
-								{% for post in site.posts %}
-									{% if post.category == "gear" %}
-										<li class="icon fa-compass">
-											<a href="{{ post.permalink }}">
-												<h3>{{ post.title }}</h3>
-												<p>{{ post.blurb }}</p>
-											</a>
-										</li>
-									{% endif %}
-								{% endfor %}
+	<div id="sign-up-form" class="zoom-anim-dialog  mfp-hide">
+		<h4>Sign up to stay in the loop</h4>
+		<p>We only send emails when we have new articles.</p>
+		<form>
+			<label for="email">Email Address:</label>
+			<input type="email" name="email" id="email" />
+			<button class="button special">Sign up</button>
+		</form>
 
-								{% comment %}
-								<li class="icon fa-laptop">
-									<h3>Kodiak Acadia Hiking Boots</h3>
-									<p>The. Best. Boots. Ever.</p>
-								</li>
-								<li class="icon fa-code">
-									<h3>MSR Whisperlite Campstove</h3>
-									<p>One of the most reliable stoves out there.</p>
-								</li>
-								<li class="icon fa-headphones">
-									<h3>Woman Atlas Elektra 11 Snowshoes</h3>
-									<p>Your best winter hiking companion.</p>
-								</li>
-								<li class="icon fa-heart-o">
-									<h3>North Face Base Camp Duffel</h3>
-									<p>A durable laminate travel bag.</p>
-								</li>
-								<li class="icon fa-flag-o">
-									<h3>The North Face Dryzzle Rain Jacket</h3>
-									<p>Gore-Tex and breathable with an awesome colour selection.</p>
-								</li>
-								{% endcomment %}
-
-							</ul>
-						</div>
-					</section>
-
-				<!-- CTA -->
-					<section id="cta" class="wrapper style4">
-						<div class="inner">
-							<header>
-								<h2>Stay Connected!</h2>
-								<p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
-							</header>
-							<ul class="actions vertical">
-								<li><a href="#" class="button fit special">Activate</a></li>
-								<li><a href="#" class="button fit">Learn More</a></li>
-							</ul>
-						</div>
-					</section>
+	</div>

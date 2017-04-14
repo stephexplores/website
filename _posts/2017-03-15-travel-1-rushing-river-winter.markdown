@@ -7,6 +7,7 @@ thumb: images/pic01.jpg
 banner: images/pic01.jpg
 permalink: /travel/rushing-river-in-the-winter
 category: travel
+featured: true
 published: true
 ---
 

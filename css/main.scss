@@ -967,7 +967,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		.image {
 			@include vendor('order', '1');
 			border-radius: 0;
-			width: 40%;
+			width: 50%;
 
 			img {
 				border-radius: 0;
@@ -979,7 +979,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			@include padding(2em, 4em);
 			@include vendor('order', '2');
 			max-width: 48em;
-			width: 60%;
+			width: 50%;
 		}
 
 		&:nth-child(2n) {

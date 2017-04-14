@@ -29,13 +29,29 @@ layout: landing
 					</section>
 
 				<!-- Two -->
-					<section id="two" class="wrapper alt style2">
+					<section id="travel" class="wrapper alt style2">
+
+							{% for post in site.posts %}
+								{% if post.category == "travel" %}
+									<section class="spotlight">
+										<div class="image"><img src="{{ post.thumb }}" alt="{{ post.title }}" /></div>
+										<div class="content">
+											<h2>{{ post.title }}</h2>
+											<p>{{ post.blurb }}</p>
+											<a class="button" title="Read the article - {{ post.title }}" href="{{ post.permalink }}">Read the article</a>
+										</div>
+									</section>
+								{% endif %}
+							{% endfor %}
+
+							{% comment %}
 						<section class="spotlight">
 							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
 								<h2>Rushing River in the Winter<br /></h2>
 								<p>Groomed ski trails, snowshoeing and open water. Is there anything better?</p>
 							</div>
 						</section>
+
 						<section class="spotlight">
 							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
 								<h2>Canoeing Little Limestone Lake<br /></h2>
@@ -48,20 +64,29 @@ layout: landing
 								<p>A weekend of firsts: ice roads, ice fishing and winter camping.</p>
 							</div>
 						</section>
+						{% endcomment %}
 					</section>
 
 				<!-- Three -->
-					<section id="three" class="wrapper style3 special">
+					<section id="gear" class="wrapper style3 special">
 						<div class="inner">
 							<header class="major">
 								<h2>My Favourite Gear</h2>
 								<p>Camping, canoeing, climbing and everyday gear reviews.</p>
 							</header>
 							<ul class="features">
-								<li class="icon fa-paper-plane-o">
-									<h3>North Face Tadpole 2 Tent</h3>
-									<p>Our first backpacking tent.</p>
-								</li>
+								{% for post in site.posts %}
+									{% if post.category == "gear" %}
+										<li class="icon fa-compass">
+											<a href="{{ post.permalink }}">
+												<h3>{{ post.title }}</h3>
+												<p>{{ post.blurb }}</p>
+											</a>
+										</li>
+									{% endif %}
+								{% endfor %}
+
+								{% comment %}
 								<li class="icon fa-laptop">
 									<h3>Kodiak Acadia Hiking Boots</h3>
 									<p>The. Best. Boots. Ever.</p>
@@ -82,6 +107,8 @@ layout: landing
 									<h3>The North Face Dryzzle Rain Jacket</h3>
 									<p>Gore-Tex and breathable with an awesome colour selection.</p>
 								</li>
+								{% endcomment %}
+
 							</ul>
 						</div>
 					</section>

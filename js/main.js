@@ -98,3 +98,21 @@
 	});
 
 })(jQuery);
+
+$(document).ready(function() {
+	$('.sign-up').magnificPopup({
+		type: 'inline',
+
+		fixedContentPos: false,
+		fixedBgPos: true,
+
+		overflowY: 'auto',
+
+		closeBtnInside: true,
+		preloader: false,
+
+		midClick: true,
+		removalDelay: 300,
+		mainClass: 'zoom-in'
+	});
+});

@@ -1029,7 +1029,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 	}
-	
+
 
 /* Wrapper */
 
@@ -1834,11 +1834,27 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 
 
-.sign-up{
-	margin-top: 50px !important;
+
+.menu-slide{
+	font-size: 12px;
+}
+
+.menu-title{
+	border-top: 0 !important;
 }
 
 
+
+
+
+
+
+
+
+
+.sign-up{
+	margin-top: 50px !important;
+}
 
 	/* Styles for sign-up-form modal*/
 	#sign-up-form {

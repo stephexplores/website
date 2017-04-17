@@ -7,9 +7,27 @@
         <a href="#menu" class="menuToggle"><span>Menu</span></a>
         <div id="menu">
           <ul>
-            <li><a href="#travel" class="scrolly">Travel</a></li>
-            <li><a href="#gear" class="scrolly">Gear</a></li>
-            <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"
+            <li class="menu-title"><a href="" class="travel-menu-trigger">Travel</a></li>
+            <li class="menu-slide travel-menu">
+              <ul>
+                {% for link in site.posts %}
+                  {% if link.category == "travel" %}
+                    <li><a href="{{ link.permalink }}" title="{{ link.title }}">{{ link.title }}</a></li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </li>
+            <li class="menu-title"><a href="" class="gear-menu-trigger">Gear</a></li>
+            <li class="menu-slide gear-menu">
+              <ul>
+                {% for link in site.posts %}
+                  {% if link.category == "gear" %}
+                    <li><a href="{{ link.permalink }}" title="{{ link.title }}">{{ link.title }}</a></li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </li>
+            <li class="menu-title"><a href="{{ "/feed.xml" | prepend: site.baseurl }}"
                    class="icon fa-feed"> RSS Feed</a></li>
           </ul>
         </div>

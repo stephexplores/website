@@ -11,9 +11,9 @@ featured: true
 published: true
 ---
 
-#Rushing River
+## Rushing River
 
-#February 2016
+###### February 2016
 
 February is always a crazy month for me. There’s quite a few birthdays (including my own), planning for the Delta Waterfowl Fundraising Dinner and then gearing up for the climbing competition in March. In early February, two girlfriends and I took a break from the hectic part of life and did a Sunday road trip out to Rushing River Provincial Park.
 Bailey and Mel picked me up from my apartment first thing Sunday morning and with our snowshoes and white cheddar KD packed, we made the drive out to Ontario. The weather was beautiful with temperatures in the low minus digits and the sun shining. When we pulled up to the park we were the only car in the lot which was fairly expected in the middle of winter.

@@ -15,7 +15,9 @@ published: true
 ###### September 2017
 
 I was probably 17 the first time I saw a picture of Little Limestone Lake. I recall flipping through a coffee table book at my friend’s house, showcasing hidden gems in Manitoba. I’m sure that my reaction was the same as anyone’s the first time that they see a photo of the lake, I just had to get there – it looked exactly like the Caribbean!
-![Rushing River Provincial Park parking lot](/images/rr/)
+
+![Little Limestone Lake](/images/lll/LLL01.jpg){: .center-image }
+
 Fast forward 5 years and I was sitting in a class at university. One of my classmates started talking about their volunteer work with the Manitoba Chapter of Canadian Parks and Wilderness Society (CPAWS). He explained their efforts around raising awareness for Little Limestone Lake and provided us with a hardcopy postcard to mail to our local politicians.
 
 Little Limestone Lake is noted as the largest marl lake in the world. The CPAWS website is a great resource if anyone is interested in finding out more information on the lake. In short, marl is created by the precipitation of calcium carbonate which is found in limestone. On summer days, an increase in water temperature and pH can trigger this reaction which results in a change to the colour of the water. There are many marl likes located around the world in the U.S. Midwest, Europe, Himalayas, Ireland, etc. but I has been document that Little Limestone Lake has the most dramatic colour changes.

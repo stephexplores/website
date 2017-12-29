@@ -16,7 +16,7 @@ published: true
 
 I was probably 17 the first time I saw a picture of Little Limestone Lake. I recall flipping through a coffee table book at my friend’s house, showcasing hidden gems in Manitoba. I’m sure that my reaction was the same as anyone’s the first time that they see a photo of the lake, I just had to get there – it looked exactly like the Caribbean!
 
-![Little Limestone Lake 2017](\images\limestone\limestone1.jpg)
+![Little Limestone Lake September 2017](\images\limestone\limestone1.jpg)
 
 Fast forward 5 years and I was sitting in a class at university. One of my classmates started talking about their volunteer work with the Manitoba Chapter of Canadian Parks and Wilderness Society (CPAWS). He explained their efforts around raising awareness for Little Limestone Lake and provided us with a hardcopy postcard to mail to our local politicians.
 

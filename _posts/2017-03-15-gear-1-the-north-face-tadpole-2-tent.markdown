@@ -19,19 +19,19 @@ While researching tents my main focus was looking for a small backpacking tent t
 
 The two person tent has a trail weight of 3 lbs 15 oz and costs around $430. Word on the street is that they’re no longer manufacturing the tent but you may still be able to pick it up in-store or online. I was able to snag a great deal on the Tadpole 2 footprint from the Prairie Summit Shop.
 
-What I Loved:
-*	Small footprint – capable of fitting in small isolated spots
+**What I Loved:**
+*	*Small footprint* – Capable of fitting in small isolated spots
 
-*	Roomy enough for two regular sized sleeping pads as well as two bags inside the tent at the base of our feet
+*	*Roomy* - We fit two regular sized sleeping pads as well as two bags inside the tent at the base of our feet
 
-*	Weather proof – the tent held up in the snow/sleet and the rain
+*	*Weather proof* – The tent held up in the snow/sleet and the rain
 
-*	Pole construction – the hubbed poles connect to the tent using pull and secure gadgets, they felt very stable! 	
+*	*Pole construction* – The hubbed poles connect to the tent using pull and secure gadgets, they felt very stable! 	
 
-Critiques:
-*	Only one vestibule - I usually prefer having access on both sides of the tent but the added benefit is an even smaller footprint
+**Critiques:**
+*	*Single vestibule* - I usually prefer having access on both sides of the tent but the added benefit is an even smaller footprint
 
-*	Set up was fussy at first, but we had things down pat by the second night
+*	*Initial setup* - Set up was fussy at first, but we had things down pat by the second night
 
 
 Overall this has been a great tent for us so far. I have no concerns about its ability to hold up in windy and wet Icelandic weather!

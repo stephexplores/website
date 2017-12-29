@@ -21,12 +21,16 @@ The two person tent has a trail weight of 3 lbs 15 oz and costs around $430. Wor
 
 What I Loved:
 *	Small footprint – capable of fitting in small isolated spots
+
 *	Roomy enough for two regular sized sleeping pads as well as two bags inside the tent at the base of our feet
+
 *	Weather proof – the tent held up in the snow/sleet and the rain
+
 *	Pole construction – the hubbed poles connect to the tent using pull and secure gadgets, they felt very stable! 	
 
 Critiques:
 *	Only one vestibule - I usually prefer having access on both sides of the tent but the added benefit is an even smaller footprint
+
 *	Set up was fussy at first, but we had things down pat by the second night
 
 

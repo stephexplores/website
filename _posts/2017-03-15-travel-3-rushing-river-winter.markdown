@@ -19,7 +19,7 @@ February is always a crazy month for me. There’s quite a few birthdays (includ
 
 Bailey and Mel picked me up from my apartment first thing Sunday morning and with our snowshoes and white cheddar KD packed, we made the drive out to Ontario. The weather was beautiful with temperatures in the low minus digits and the sun shining. When we pulled up to the park we were the only car in the lot which was fairly expected in the middle of winter.
 
-![Rushing River Provincial Park parking lot](/images/rr/RR1.jpg)
+![Rushing River Provincial Park parking lot](\images\rr\RR1.jpg)
 
 We unpacked our snowshoes, layered up and stuck some snacks in our backpack. We decided to hike the Lower Rapids Trail before lunch and headed for the trail across the highway. The Lower Rapids Trail is probably the most popular hike at the park, it’s short, accessible right off the highway and not challenging at all. That however, does not mean its lacking beauty, especially in the winter. The open water rushing against the snow filled banks is a beautiful scene.
 

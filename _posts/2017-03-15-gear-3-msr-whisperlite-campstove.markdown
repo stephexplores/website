@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Osprey Ariel AG 65 Women’s Backpack"
-blurb: "A bag for those short torso ladies"
+blurb: "A bag for those short torso ladies."
 date: 2017-04-04 16:16:01 -0600
 permalink: /gear/msr-whisperlite-campstove
 category: gear
@@ -12,7 +12,7 @@ tags:
 published: true
 ---
 
-# Osprey Ariel AG 65 Women’s Backpack
+#Osprey Ariel AG 65 Women’s Backpack
 
 I tried on quite a few bags before landing on this pack and I’m quite happy with my decision. When we first began trying on bags we took a trip down to MEC. I tried on a few brands, including their MEC bags, a Black Diamond bag and a Deuter bag. None of the bags fit me right, either hitting me awkwardly at the hips or gaping far from my lower back.
 

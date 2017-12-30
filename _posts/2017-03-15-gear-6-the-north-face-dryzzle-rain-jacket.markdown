@@ -11,10 +11,6 @@ tags:
 published: true
 ---
 
-# This is an H1
+# The North Face Dryzzle Rain Jacket
 
-## This is an H2
-
-###### This is an H6
-
-Markdown Syntax cheatsheet [click here](https://help.ghost.org/hc/en-us/articles/224410728-Markdown-Guide)
+I purchsed this jacket....

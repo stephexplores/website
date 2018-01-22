@@ -3,11 +3,13 @@ layout: page
 title:  "Icelandic Waterfalls"
 blurb: "Our top three waterfalls in Iceland - it was hard to choose!"
 date: 2015-11-11 16:16:01 -0600
-thumb: images/pic03.jpg
-banner: images/pic03.jpg
+thumb: /images/pic03.jpg
+banner: /images/pic03.jpg
 permalink: /travel/iceland-waterfalls
 category: travel
 published: true
+featured: true
+bannerlink: false
 ---
 
 # Our top three waterfalls in Iceland:

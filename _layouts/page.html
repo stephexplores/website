@@ -3,13 +3,13 @@ layout: default
 ---
 <article id="main">
 
-  <header>
+  <header style="background: url({{page.banner}}); background-size: cover; background-position: center center;">
     <h2>{{ page.title }}</h2>
     <p>{{ page.blurb }}</p>
   </header>
 
   <section class="wrapper style5">
-    <div class="inner">
+    <div class="inner article">
       {{ content }}
     </div>
   </section>

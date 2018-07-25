@@ -1850,6 +1850,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 .menu-slide{
 	font-family: 'Lora', serif;
+
 	font-size: 12px;
 }
 
@@ -1858,6 +1859,9 @@ $baseurl: '{{ site.baseurl }}/images';
 	border-top: 0 !important;
 }
 
+.menu-slide ul li a{
+	text-transform: initial;
+}
 
 
 

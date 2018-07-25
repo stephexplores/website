@@ -103,7 +103,6 @@ $baseurl: '{{ site.baseurl }}/images';
 		letter-spacing: _size(letter-spacing-alt);
 		line-height: 1em;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
-		text-transform: uppercase;
 
 		a {
 			color: inherit;
@@ -115,6 +114,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		font-size: 1.35em;
 		font-family: 'Oswald', sans-serif;
 		line-height: 1.75em;
+		text-transform: uppercase;
 
 		@include breakpoint(small) {
 			font-size: 1.1em;
@@ -125,6 +125,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	h3 {
 		font-size: 1.15em;
 		line-height: 1.75em;
+		text-transform: uppercase;
 
 		@include breakpoint(small) {
 			font-size: 1em;
@@ -135,11 +136,14 @@ $baseurl: '{{ site.baseurl }}/images';
 	h4 {
 		font-size: 1em;
 		line-height: 1.5em;
+		text-transform: uppercase;
 	}
 
 	h5 {
 		font-size: 0.8em;
 		line-height: 1.5em;
+		text-transform: uppercase;
+
 	}
 
 	h6 {

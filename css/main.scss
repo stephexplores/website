@@ -52,7 +52,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	body, input, select, textarea {
 		color: _palette(fg);
 		font-family: _font(family);
-		font-size: 15pt;
+		font-size: 15px;
 		font-weight: _font(weight);
 		letter-spacing: _size(letter-spacing);
 		line-height: 1.65em;
@@ -93,7 +93,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	p {
 		font-family: 'Lora',serif;
-		font-size: 15pt;
+		font-size: 15px;
 
 		margin: 0 0 _size(element-margin) 0;
 	}

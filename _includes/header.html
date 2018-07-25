@@ -15,16 +15,16 @@
                     <li><a href="{{ link.permalink }}" title="{{ link.title }}">{{ link.title }}</a></li>
                   {% endif %}
                 {% endfor %}
-                <ul>
-                  <li class="menu-title"><a href="" class="hike-menu-trigger">Hike</a></li>
-                  <li class="menu-slide hike-menu">
+              <ul>
+                <li class="menu-title"><a href="" class="hike-menu-trigger">Hike</a></li>
+                <li class="menu-slide hike-menu">
                     <ul>
-                      {% for link in site.posts %}
-                        {% if link.category == "hike" %}
-                          <li><a href="{{ link.permalink }}" title="{{ link.title }}">{{ link.title }}</a></li>
-                        {% endif %}
-                      {% endfor %}
-              </ul>
+                    {% for link in site.posts %}
+                      {% if link.category == "hike" %}
+                        <li><a href="{{ link.permalink }}" title="{{ link.title }}">{{ link.title }}</a></li>
+                      {% endif %}
+                    {% endfor %}
+            </ul>
             </li>
             <li class="menu-title"><a href="" class="gear-menu-trigger">Gear</a></li>
             <li class="menu-slide gear-menu">

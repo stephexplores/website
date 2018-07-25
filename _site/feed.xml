@@ -3,10 +3,10 @@
   <channel>
     <title>Steph Explores</title>
     <description>Exploring trails and waterways in Manitoba and northwestern Ontario</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Jan 2018 22:07:03 -0600</pubDate>
-    <lastBuildDate>Sun, 21 Jan 2018 22:07:03 -0600</lastBuildDate>
+    <link>http://stephexplores.ca/</link>
+    <atom:link href="http://stephexplores.ca/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 Jul 2018 22:22:29 -0500</pubDate>
+    <lastBuildDate>Tue, 24 Jul 2018 22:22:29 -0500</lastBuildDate>
     
       <item>
         <title>North Face Tadpole 2 Tent</title>
@@ -47,8 +47,8 @@ Critiques:
 Overall this has been a great tent for us so far. I have no concerns about its ability to hold up in windy and wet Icelandic weather!
 </description>
         <pubDate>Sun, 09 Apr 2017 17:16:01 -0500</pubDate>
-        <link>http://localhost:4000/gear/the-north-face-tadpole-2-tent</link>
-        <guid isPermaLink="true">http://localhost:4000/gear/the-north-face-tadpole-2-tent</guid>
+        <link>http://stephexplores.ca/gear/the-north-face-tadpole-2-tent</link>
+        <guid isPermaLink="true">http://stephexplores.ca/gear/the-north-face-tadpole-2-tent</guid>
         
         <category>The North Face</category>
         
@@ -78,8 +78,8 @@ Waterproof: I’ve walked through puddles and have survived without any leaks. I
 Thing to improve: I find these boots lack good support. An improved insole would make these boots the cream of the crop.
 </description>
         <pubDate>Wed, 05 Apr 2017 17:16:01 -0500</pubDate>
-        <link>http://localhost:4000/gear/kodiak-acadia-hiking-boots</link>
-        <guid isPermaLink="true">http://localhost:4000/gear/kodiak-acadia-hiking-boots</guid>
+        <link>http://stephexplores.ca/gear/kodiak-acadia-hiking-boots</link>
+        <guid isPermaLink="true">http://stephexplores.ca/gear/kodiak-acadia-hiking-boots</guid>
         
         <category>North Face</category>
         
@@ -118,8 +118,8 @@ Cons
 In comparison to the North Face Terra 65 that Erik picked up it seems MUCH larger. Honestly, this bag felt like I was putting on my turtle shell every morning. It was comfy and fit perfectly! I have no complaints so far.
 </description>
         <pubDate>Tue, 04 Apr 2017 17:16:01 -0500</pubDate>
-        <link>http://localhost:4000/gear/msr-whisperlite-campstove</link>
-        <guid isPermaLink="true">http://localhost:4000/gear/msr-whisperlite-campstove</guid>
+        <link>http://stephexplores.ca/gear/msr-whisperlite-campstove</link>
+        <guid isPermaLink="true">http://stephexplores.ca/gear/msr-whisperlite-campstove</guid>
         
         <category>tag 1</category>
         
@@ -143,8 +143,8 @@ This is an H6
 Markdown Syntax cheatsheet click here
 </description>
         <pubDate>Mon, 03 Apr 2017 17:16:01 -0500</pubDate>
-        <link>http://localhost:4000/gear/womans-atlas-elektra-11-snowshoes</link>
-        <guid isPermaLink="true">http://localhost:4000/gear/womans-atlas-elektra-11-snowshoes</guid>
+        <link>http://stephexplores.ca/gear/womans-atlas-elektra-11-snowshoes</link>
+        <guid isPermaLink="true">http://stephexplores.ca/gear/womans-atlas-elektra-11-snowshoes</guid>
         
         <category>North Face</category>
         
@@ -168,8 +168,8 @@ This is an H6
 Markdown Syntax cheatsheet click here
 </description>
         <pubDate>Sun, 02 Apr 2017 17:16:01 -0500</pubDate>
-        <link>http://localhost:4000/gear/the-north-face-base-camp-duffel</link>
-        <guid isPermaLink="true">http://localhost:4000/gear/the-north-face-base-camp-duffel</guid>
+        <link>http://stephexplores.ca/gear/the-north-face-base-camp-duffel</link>
+        <guid isPermaLink="true">http://stephexplores.ca/gear/the-north-face-base-camp-duffel</guid>
         
         <category>The North Face</category>
         
@@ -187,8 +187,8 @@ Markdown Syntax cheatsheet click here
 I purchsed this jacket….
 </description>
         <pubDate>Sat, 01 Apr 2017 17:16:01 -0500</pubDate>
-        <link>http://localhost:4000/gear/the-north-face-dryzzle-rain-jacket</link>
-        <guid isPermaLink="true">http://localhost:4000/gear/the-north-face-dryzzle-rain-jacket</guid>
+        <link>http://stephexplores.ca/gear/the-north-face-dryzzle-rain-jacket</link>
+        <guid isPermaLink="true">http://stephexplores.ca/gear/the-north-face-dryzzle-rain-jacket</guid>
         
         <category>The North Face</category>
         
@@ -202,7 +202,6 @@ I purchsed this jacket….
       <item>
         <title>Rushing River in the Winter</title>
         <description>Rushing River
-
 February 2016
 
 February is always a crazy month for me. There’s quite a few birthdays (including my own), planning for the Delta Waterfowl Fundraising Dinner and then gearing up for the climbing competition in March. In early February, two girlfriends and I took a break from the hectic part of life and did a Sunday road trip out to Rushing River Provincial Park.
@@ -218,8 +217,8 @@ After spending some time lounging in the snow and taking photos, we continued ba
 Across the lake we found a secluded spot warmed by the afternoon sunlight. We started up the stove for some coffee and hot chocolate and then continued with lunch. After stuffing our faces with white cheddar mac and cheese and chicken salad sandwiches we decided to snowshoe back to the car. Driving 6 hours definitely makes for a long day but it was definitely worth it.
 </description>
         <pubDate>Sat, 14 Nov 2015 16:16:01 -0600</pubDate>
-        <link>http://localhost:4000/travel/rushing-river-in-the-winter</link>
-        <guid isPermaLink="true">http://localhost:4000/travel/rushing-river-in-the-winter</guid>
+        <link>http://stephexplores.ca/travel/rushing-river-in-the-winter</link>
+        <guid isPermaLink="true">http://stephexplores.ca/travel/rushing-river-in-the-winter</guid>
         
         
         <category>travel</category>
@@ -259,8 +258,8 @@ Some tips for the trip:
 
 </description>
         <pubDate>Thu, 12 Nov 2015 16:16:01 -0600</pubDate>
-        <link>http://localhost:4000/travel/canoeing-little-limestone-lake</link>
-        <guid isPermaLink="true">http://localhost:4000/travel/canoeing-little-limestone-lake</guid>
+        <link>http://stephexplores.ca/travel/canoeing-little-limestone-lake</link>
+        <guid isPermaLink="true">http://stephexplores.ca/travel/canoeing-little-limestone-lake</guid>
         
         
         <category>travel</category>
@@ -284,8 +283,8 @@ Some tips for the trip:
 
 </description>
         <pubDate>Wed, 11 Nov 2015 16:16:01 -0600</pubDate>
-        <link>http://localhost:4000/travel/iceland-waterfalls</link>
-        <guid isPermaLink="true">http://localhost:4000/travel/iceland-waterfalls</guid>
+        <link>http://stephexplores.ca/travel/iceland-waterfalls</link>
+        <guid isPermaLink="true">http://stephexplores.ca/travel/iceland-waterfalls</guid>
         
         
         <category>travel</category>
@@ -320,8 +319,8 @@ The next and last day we woke up to sun! This was great as we were able to dry o
 The Laugavegur Trek lived up to its hype. While not an overly challenging hike it did provide a variety of landscapes across the 55 km’s that I doubt no other trail would be able to match. We will definitely be returning to hike the trail again!
 </description>
         <pubDate>Wed, 11 Nov 2015 16:16:01 -0600</pubDate>
-        <link>http://localhost:4000/travel/laugavegur-iceland</link>
-        <guid isPermaLink="true">http://localhost:4000/travel/laugavegur-iceland</guid>
+        <link>http://stephexplores.ca/travel/laugavegur-iceland</link>
+        <guid isPermaLink="true">http://stephexplores.ca/travel/laugavegur-iceland</guid>
         
         
         <category>travel</category>

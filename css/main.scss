@@ -2135,3 +2135,56 @@ $baseurl: '{{ site.baseurl }}/images';
 
 // #868897
 // #864343  or gold.. #d6b35d
+
+.menu-slide ul li a{
+	text-transform: capitalize !important;
+}
+
+.mfp-with-zoom.mfp-ready .mfp-container {
+		opacity: 1;
+}
+.mfp-with-zoom.mfp-ready.mfp-bg {
+		opacity: 0.8;
+}
+
+
+.popup-gallery{
+	// display: flex;
+	// justify-content: space-between;
+	// flex-wrap: wrap;
+}
+
+.popup-gallery a{
+	min-width: calc(50% - 10px);
+	min-height: 300px;
+	display: block;
+	background-size: cover;
+	background-position: center center;
+	outline: none;
+}
+
+.double-height{
+	min-height: 610px !important;
+}
+
+@media screen and(max-width: 767px){
+	.popup-gallery a{
+		min-width: calc(50% - 10px);
+		min-height: 150px;
+	}
+	.double-height{
+		min-height: 310px !important;
+	}
+
+}
+
+@media screen and(max-width: 480px){
+	.popup-gallery a{
+		min-width: calc(50% - 10px);
+		min-height: 100px;
+	}
+	.double-height{
+		min-height: 210px !important;
+	}
+
+}

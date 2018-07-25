@@ -5,8 +5,8 @@ blurb: "Groomed ski trails, snowshoeing and open water. Is there anything better
 date: 2015-11-14 16:16:01 -0600
 thumb: /images/pic01.jpg
 banner: /images/pic01.jpg
-permalink: /travel/rushing-river-in-the-winter
-category: travel
+permalink: /hike/rushing-river-in-the-winter
+category: hike
 published: true
 featured: true
 bannerlink: false

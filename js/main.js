@@ -115,4 +115,16 @@ $(document).ready(function() {
 		removalDelay: 300,
 		mainClass: 'zoom-in'
 	});
+
+	var feed = new Instafeed({
+		accessToken: '50338685.1677ed0.ab7b1dcb776144ef8d6675f29705c1af',
+		target: 'ig-feed',
+		get: 'user',
+    userId: '50338685',
+		limit: 12,
+		resolution: 'standard_resolution',
+		template: '<a href="{{link}}" style="background-image: url({{image}})"><div class="overlay"><span class="overlay__content"><span class="likes"><i class="fa fa-heart"></i>{{likes}}</span><span class="comments"><i class="fa fa-comment"></i>{{comments}}</span></span></div></a>'
+  });
+
+  feed.run();
 });

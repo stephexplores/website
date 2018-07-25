@@ -8,7 +8,7 @@ layout: landing
 			<p>{{ site.description | markdownify }}</p>
 			<ul class="actions">
 				{% for post in site.posts %}
-					{% if post.category == "travel" and post.featured %}
+					{% if post.category == "travel" and post.bannerlink %}
 						<li><a href="{{ post.permalink }}" class="button">Latest Article</a></li>
 					{% endif %}
 				{% endfor %}
@@ -17,7 +17,10 @@ layout: landing
 		<a href="#one" class="more scrolly">Learn More</a>
 	</section>
 
+{% include instagram-feed.html %}
+
 <!-- One -->
+{% comment %}
 	<section id="one" class="wrapper style1 special">
 		<div class="inner">
 			<header class="major">
@@ -31,11 +34,15 @@ layout: landing
 			</ul>
 		</div>
 	</section>
+{%endcomment%}
 
 <!-- Travel -->
+	<div class="travel__title">
+		<h3>My featured travels</h3>
+	</div>
 	<section id="travel" class="wrapper alt style2">
 		{% for post in site.posts %}
-			{% if post.category == "travel" %}
+			{% if post.category == "travel" and post.featured %}
 				<section class="spotlight">
 					<div class="image"><img src="{{ post.thumb }}" alt="{{ post.title }}" /></div>
 					<div class="content">

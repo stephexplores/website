@@ -20,7 +20,6 @@ You can drive or take a bus to both Landmannalaugar and Þórsmörk. Either loca
 
 We decided to camp along the trail and did not pay to stay in the huts. We had originally read online that you could use the kitchens within the huts even if you were camping but that turned out to not be true. You can still use the outdoor kitchen and washroom facilities. Camping cost us about $10 US per person and showers ranged in price, usually $2 – 5 US depending on the length of time you spent in there. Be prepared to pack out all of your garbage, you are not allowed to leave anything at the huts – and rightly so, I imagine it’s a long drive up there for the staff!
 
-TEST CHANGE
 
 **Day 1: Landmannalaugar to Álftavatn (24 km)**
 ![Laugavegur Trek Day One](\images\laugavegur_trek\hike1.jpg)

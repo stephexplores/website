@@ -31,10 +31,11 @@
 
   <title>Rushing River in the Winter</title>
 
-  <meta name="description" content="Rushing River">
+  <meta name="description" content="Rushing RiverFebruary 2016">
 
-  <link rel="canonical" href="http://localhost:4000/travel/rushing-river-in-the-winter">
-  <link rel="alternate" type="application/rss+xml" title="Steph Explores" href="http://localhost:4000/feed.xml">
+  <link rel="canonical" href="http://stephexplores.ca/travel/rushing-river-in-the-winter">
+  <link rel="alternate" type="application/rss+xml" title="Steph Explores" href="http://stephexplores.ca/feed.xml">
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Oswald" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" />
   <link rel="stylesheet" href="/css/main.css" />
   <link rel='icon' href="/images/favicon.png" type="image/png" />
@@ -147,8 +148,7 @@
   <section class="wrapper style5">
     <div class="inner article">
       <h2 id="rushing-river">Rushing River</h2>
-
-<h6 id="february-2016">February 2016</h6>
+<h6 id="february-2016"><em>February 2016</em></h6>
 
 <p>February is always a crazy month for me. There’s quite a few birthdays (including my own), planning for the Delta Waterfowl Fundraising Dinner and then gearing up for the climbing competition in March. In early February, two girlfriends and I took a break from the hectic part of life and did a Sunday road trip out to Rushing River Provincial Park.</p>
 
@@ -205,6 +205,8 @@
       <!-- Scripts -->
 <script src="/js/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/packery/2.1.2/packery.pkgd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/instafeed.js/1.4.1/instafeed.min.js"></script>
 <script src="/js/jquery.scrollex.min.js"></script>
 <script src="/js/jquery.scrolly.min.js"></script>
@@ -222,6 +224,35 @@
   ga('create', 'UA-96626046-1', 'auto');
   ga('send', 'pageview');
 
+</script>
+
+<script>
+  $(document).ready(function() {
+    $('.popup-gallery').magnificPopup({
+      delegate: 'a',
+      type: 'image',
+      closeOnContentClick: false,
+      closeBtnInside: false,
+      mainClass: 'mfp-with-zoom mfp-img-mobile',
+      image: {
+        verticalFit: true
+      },
+      gallery: {
+        enabled: true
+      }
+    });
+
+    var $grid = $('.packed-photos').imagesLoaded( function() {
+      // init Packery after all images have loaded
+      $grid.packery({
+        // options...
+      });
+    });
+
+    $('.popup-gallery').packery({
+      gutter: 10
+    });
+  });
 </script>
 
 

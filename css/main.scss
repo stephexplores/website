@@ -1860,7 +1860,7 @@ $baseurl: '{{ site.baseurl }}/images';
 }
 
 .menu-slide ul li a{
-	text-transform: initial;
+	text-transform: lowercase;
 }
 
 

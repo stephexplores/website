@@ -13,8 +13,7 @@ bannerlink: false
 ---
 
 ## Rushing River
-
-###### February 2016
+###### *February 2016*
 
 February is always a crazy month for me. There’s quite a few birthdays (including my own), planning for the Delta Waterfowl Fundraising Dinner and then gearing up for the climbing competition in March. In early February, two girlfriends and I took a break from the hectic part of life and did a Sunday road trip out to Rushing River Provincial Park.
 

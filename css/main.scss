@@ -92,6 +92,8 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 
 	p {
+		font-family: 'Lora',serif;
+		
 		margin: 0 0 _size(element-margin) 0;
 	}
 
@@ -2107,10 +2109,6 @@ $baseurl: '{{ site.baseurl }}/images';
 
 #menu{
 	background: #868897;
-}
-
-.article *{
-	font-family: 'Lora',serif;
 }
 
 .article img{

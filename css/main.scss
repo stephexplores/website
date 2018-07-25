@@ -110,6 +110,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+	h1 {
+		text-transform: uppercase;
+	}
+
 	h2 {
 		font-size: 1.35em;
 		font-family: 'Oswald', sans-serif;

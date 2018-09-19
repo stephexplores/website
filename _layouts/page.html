@@ -2,6 +2,21 @@
 layout: page
 ---
 
+
+
+<!DOCTYPE html>
+{% include ascii.html %}
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <!-- Page Wrapper -->
+    <div id="page-wrapper">
+
+      {% include header.html %}
+
 <article id="main">
 
   <header style="background: url({{ page.banner }}); background-size: cover; background-position: center center;">
@@ -16,3 +31,14 @@ layout: page
   </section>
 
 </article>
+
+
+{% include footer.html %}
+
+{% include scripts.html %}
+
+</div>
+
+</body>
+
+</html>

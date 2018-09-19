@@ -9,6 +9,7 @@ tags:
 - Bags
 layout: page
 blurb: A durable laminate travel bag.
+banner: "/images/pic03.jpg"
 ---
 
 # This is an H1

@@ -2829,10 +2829,10 @@ body.is-mobile.landing #footer {
   opacity: 0; }
 
 .ig-feed {
-  background: #e3e3e3;
-  padding: 50px 0 0; }
+  background: #868897;
+  padding: 0px 0 0; }
   .ig-feed h3 {
-    color: rgba(0, 0, 0, 0.75) !important;
+    color: rgba(255, 255, 255, 0.75) !important;
     text-align: center !important;
     margin-bottom: 50px; }
   .ig-feed #ig-feed::after {

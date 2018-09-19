@@ -43,7 +43,7 @@ layout: landing
 	</div>
 	<section id="travel" class="wrapper alt style2">
 		{% for post in site.posts %}
-			{% if post.category == "travel" and post.featured %}
+			{% if post.categories contains "travel" and post.featured %}
 				<section class="spotlight">
 					<div class="image"><img src="{{ post.thumb }}" alt="{{ post.title }}" /></div>
 					<div class="content">
@@ -65,7 +65,7 @@ layout: landing
 			</header>
 			<ul class="features">
 				{% for post in site.posts %}
-					{% if post.category == "gear" %}
+					{% if post.categories contains "gear" %}
 						<li class="icon fa-compass">
 							<a href="{{ post.permalink }}">
 								<h3>{{ post.title }}</h3>

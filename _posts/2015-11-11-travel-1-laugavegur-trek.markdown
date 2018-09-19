@@ -1,13 +1,14 @@
 ---
+title: Laugavegur Trek
+date: 2015-11-11 22:16:01 Z
+permalink: "/travel/laugavegur-iceland"
+categories:
+- travel
 layout: page
-title:  "Laugavegur Trek"
-blurb: "Natural Geographic rates this as one of the most breathtaking hikes in the world. We agree!"
-date: 2015-11-11 16:16:01 -0600
-thumb: /images/pic06.jpg
-banner: /images/pic06.jpg
-permalink: /travel/laugavegur-iceland
-category: travel
-published: true
+blurb: Natural Geographic rates this as one of the most breathtaking hikes in the
+  world. We agree!
+thumb: "/images/pic06.jpg"
+banner: "/images/pic06.jpg"
 featured: true
 bannerlink: false
 ---

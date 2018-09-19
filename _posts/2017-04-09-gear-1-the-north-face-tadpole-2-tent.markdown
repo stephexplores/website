@@ -1,14 +1,14 @@
 ---
-layout: page
-title:  "North Face Tadpole 2 Tent"
-blurb: "Our first backpacking tent."
-date: 2017-04-09 16:16:01 -0600
-permalink: /gear/the-north-face-tadpole-2-tent
-category: gear
+title: North Face Tadpole 2 Tent
+date: 2017-04-09 22:16:01 Z
+permalink: "/gear/the-north-face-tadpole-2-tent"
+categories:
+- gear
 tags:
-  - "The North Face"
-  - "Tents"
-published: true
+- The North Face
+- Tents
+layout: page
+blurb: Our first backpacking tent.
 ---
 
 # North Face Tadpole 2 Tent and Footprint

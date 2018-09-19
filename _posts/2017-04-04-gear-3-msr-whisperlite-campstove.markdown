@@ -1,15 +1,15 @@
 ---
-layout: page
-title:  "Osprey Ariel AG 65 Women’s Backpack"
-blurb: "A bag for those short torso ladies."
-date: 2017-04-04 16:16:01 -0600
-permalink: /gear/msr-whisperlite-campstove
-category: gear
+title: Osprey Ariel AG 65 Women’s Backpack
+date: 2017-04-04 22:16:01 Z
+permalink: "/gear/msr-whisperlite-campstove"
+categories:
+- gear
 tags:
-  - "tag 1"
-  - "tag 2"
-  - "tag 3"
-published: true
+- tag 1
+- tag 2
+- tag 3
+layout: page
+blurb: A bag for those short torso ladies.
 ---
 
 ## Osprey Ariel AG 65 Women’s Backpack

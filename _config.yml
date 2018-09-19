@@ -1,54 +1,20 @@
-# Welcome to Jekyll!
-#
-
-
-# Site settings
+---
 title: Steph Explores
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: Exploring trails and waterways in Manitoba and northwestern Ontario
-first_published: 2016 # if migrating another site, the year of your first publish
+first_published: 2016
 email: stephanie.paige@hotmail.com
-baseurl: # the subpath of your site, e.g. /blog
-url: "http://stephexplores.ca" # the base hostname & protocol for your site
+baseurl: 
+url: http://stephexplores.ca
 social:
   instagram: https://www.instagram.com/steph.explores/
   youtube: https://www.youtube.com/channel/UCcrrpGUoDCTznp0YKyo3O3Q
   pinterest: https://www.pinterest.com/stephexplores/
-  #email: /contact/
-  #flickr:
-  #instagram:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
-
-# Build settings
 markdown: kramdown
-#sass:
-#  style: compressed

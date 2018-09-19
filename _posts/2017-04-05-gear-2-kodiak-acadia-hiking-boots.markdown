@@ -1,15 +1,15 @@
 ---
-layout: page
-title:  "Kodiak Acadia Hiking Boots"
-blurb: "The. Best. Boots. Ever."
-date: 2017-04-05 16:16:01 -0600
-permalink: /gear/kodiak-acadia-hiking-boots
-category: gear
+title: Kodiak Acadia Hiking Boots
+date: 2017-04-05 22:16:01 Z
+permalink: "/gear/kodiak-acadia-hiking-boots"
+categories:
+- gear
 tags:
-  - "North Face"
-  - "Bags"
-  - "Camping"
-published: true
+- North Face
+- Bags
+- Camping
+layout: page
+blurb: The. Best. Boots. Ever.
 ---
 
 # Kodiak Acadia Boots

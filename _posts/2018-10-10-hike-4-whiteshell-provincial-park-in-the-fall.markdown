@@ -10,4 +10,21 @@ layout: page
 ## Whiteshell Provincial Park in the Fall
 ###### *October 2018*
 
-Well this post was originally meant to be a review of a seasonally warm, beautiful fall hike on the Mantario Trail. Instead, we were faced with wet snow and sloppy trails. 
+Well this post was originally meant to be a review of a seasonally warm, beautiful fall hike on the Mantario Trail. Instead, we were faced with wet snow and sloppy trails.
+
+<section class="popup-gallery">
+
+	<a href="images/pic01.jpg" style="background-image: url('images/whiteshell/ws1.jpg')"></a>
+	<a href="images/pic02.jpg" style="background-image: url('images/whiteshell/ws2.jpg')"></a>
+	<a href="images/pic03.jpg" style="background-image: url('images/whiteshell/ws3.jpg')"></a>
+	<a href="images/pic04.jpg" style="background-image: url('images/whiteshell/ws4.jpg')"></a>
+	<a href="images/pic05.jpg" style="background-image: url('images/whiteshell/ws5.jpg')"></a>
+  <a href="images/pic03.jpg" style="background-image: url('images/whiteshell/ws6.jpg')" class="double-height"></a>
+  <a href="images/pic04.jpg" style="background-image: url('images/whiteshell/ws7.jpg')"></a>
+  <a href="images/pic05.jpg" style="background-image: url('images/whiteshell/ws8.jpg')"></a>
+  <a href="images/pic05.jpg" style="background-image: url('images/whiteshell/ws9.jpg')"></a>
+  <a href="images/pic03.jpg" style="background-image: url('images/whiteshell/ws10.jpg')"></a>
+  <a href="images/pic04.jpg" style="background-image: url('images/whiteshell/ws11.jpg')" class="double-height"></a>
+  <a href="images/pic05.jpg" style="background-image: url('images/whiteshell/ws12.jpg')"></a>
+
+</section>

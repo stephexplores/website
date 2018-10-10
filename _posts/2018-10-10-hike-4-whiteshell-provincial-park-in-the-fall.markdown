@@ -14,17 +14,17 @@ Well this post was originally meant to be a review of a seasonally warm, beautif
 
 <section class="popup-gallery">
 
-	<a href="images/pic01.jpg" style="background-image: url('images/whiteshell/ws1.jpg')"></a>
-	<a href="images/pic02.jpg" style="background-image: url('images/whiteshell/ws2.jpg')"></a>
-	<a href="images/pic03.jpg" style="background-image: url('images/whiteshell/ws3.jpg')"></a>
-	<a href="images/pic04.jpg" style="background-image: url('images/whiteshell/ws4.jpg')"></a>
-	<a href="images/pic05.jpg" style="background-image: url('images/whiteshell/ws5.jpg')"></a>
-  <a href="images/pic03.jpg" style="background-image: url('images/whiteshell/ws6.jpg')" class="double-height"></a>
-  <a href="images/pic04.jpg" style="background-image: url('images/whiteshell/ws7.jpg')"></a>
-  <a href="images/pic05.jpg" style="background-image: url('images/whiteshell/ws8.jpg')"></a>
-  <a href="images/pic05.jpg" style="background-image: url('images/whiteshell/ws9.jpg')"></a>
-  <a href="images/pic03.jpg" style="background-image: url('images/whiteshell/ws10.jpg')"></a>
-  <a href="images/pic04.jpg" style="background-image: url('images/whiteshell/ws11.jpg')" class="double-height"></a>
-  <a href="images/pic05.jpg" style="background-image: url('images/whiteshell/ws12.jpg')"></a>
+	<a href="images/whiteshell/ws1.jpg" style="background-image: url('images/whiteshell/ws1.jpg')"></a>
+	<a href="images/whiteshell/ws2.jpg" style="background-image: url('images/whiteshell/ws2.jpg')"></a>
+	<a href="images/whiteshell/ws3.jpg" style="background-image: url('images/whiteshell/ws3.jpg')"></a>
+	<a href="images/whiteshell/ws4.jpg" style="background-image: url('images/whiteshell/ws4.jpg')"></a>
+	<a href="images/whiteshell/ws5.jpg" style="background-image: url('images/whiteshell/ws5.jpg')"></a>
+  <a href="images/whiteshell/ws6.jpg" style="background-image: url('images/whiteshell/ws6.jpg')" class="double-height"></a>
+  <a href="images/whiteshell/ws7.jpg" style="background-image: url('images/whiteshell/ws7.jpg')"></a>
+  <a href="images/whiteshell/ws8.jpg" style="background-image: url('images/whiteshell/ws8.jpg')"></a>
+  <a href="images/whiteshell/ws9.jpg" style="background-image: url('images/whiteshell/ws9.jpg')"></a>
+  <a href="images/whiteshell/ws10.jpg" style="background-image: url('images/whiteshell/ws10.jpg')"></a>
+  <a href="images/whiteshell/ws11" style="background-image: url('images/whiteshell/ws11.jpg')" class="double-height"></a>
+  <a href="images/whiteshell/ws12.jpg" style="background-image: url('images/whiteshell/ws12.jpg')"></a>
 
 </section>

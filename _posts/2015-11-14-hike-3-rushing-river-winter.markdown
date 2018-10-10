@@ -1,15 +1,15 @@
 ---
 title: Rushing River in the Winter
-date: 2015-11-14 22:16:01 Z
+date: 2015-11-14 22:16:00 Z
 permalink: "/hike/rushing-river-in-the-winter"
 categories:
 - hike
-layout: page
 blurb: Groomed ski trails, snowshoeing and open water. Is there anything better?
 thumb: "/images/pic01.jpg"
 banner: "/images/pic01.jpg"
 featured: true
 bannerlink: false
+layout: page
 ---
 
 ## Rushing River
